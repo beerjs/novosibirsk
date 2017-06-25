@@ -1,5 +1,7 @@
 # BeerJS Novosibirsk
 
+[![Telegram#beerjsnsk](https://img.shields.io/badge/Telegram-%23beerjsnsk-blue.svg)](https://t.me/beerjsnsk)
+
 ## Locations
 
 ### Akademgorodok
