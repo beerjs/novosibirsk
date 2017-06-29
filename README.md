@@ -16,3 +16,9 @@
 
 * [PEOPLE'S](https://2gis.ru/novosibirsk/firm/141265771662223?queryState=center%2F82.917198%2C55.023228%2Fzoom%2F17)
 * [PIVOFACTORY](https://2gis.ru/novosibirsk/firm/70000001006936913?queryState=center%2F82.917799%2C55.022503%2Fzoom%2F17)
+
+## Releases
+
+Version       | Location                          | Date             
+--------------|-----------------------------------|------------------
+v0.0.1-alpha  | Gusi                              | 29 June 2017
