@@ -1,6 +1,7 @@
 # BeerJS Novosibirsk
 
-[![Telegram#beerjsnsk](https://img.shields.io/badge/Telegram-%23beerjsnsk-blue.svg)](https://t.me/beerjsnsk)
+[![Telegram join](https://img.shields.io/badge/Telegram-join-blue.svg)](https://t.me/joinchat/AAAAAA1EkNyjpNKcKnhZbg)
+[![Meetup join](https://img.shields.io/badge/Meetup-join-red.svg)](http://meetu.ps/c/3mqp3/BvRy5/f)
 
 ## Locations
 
